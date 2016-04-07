@@ -84,7 +84,7 @@
     "rimraf": "^2.5.0",
     "signal-exit": "^2.1.1",
     "source-map": "^0.5.3",
-    "spawn-wrap": "^1.2.0",
+    "spawn-wrap": "addaleax/spawn-wrap#shebang-fixups",
     "strip-bom": "^2.0.0",
     "yargs": "^4.4.0"
   },
